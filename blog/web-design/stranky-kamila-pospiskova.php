@@ -1,10 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="utf-8" />
   <title>Blog Adam Pospíšek</title>
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  <meta name="description" content="Blog Adam Pospíšek"/>
+  <meta name="description" content="Blog Adam Pospíšek" />
   <meta name="keywords" content="portfolio, programátor, Pospi" />
   <meta name="author" content="Pospi" />
   <link rel="shortcut icon" href="../../img/ikona.ico" />
@@ -28,8 +29,7 @@
   <nav class="navbar navbar-b navbar-trans navbar-expand-md fixed-top" id="mainNav">
     <div class="container">
       <a class="navbar-brand js-scroll" href="#page-top">Pospik</a>
-      <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarDefault"
-        aria-controls="navbarDefault" aria-expanded="false" aria-label="Toggle navigation">
+      <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarDefault" aria-controls="navbarDefault" aria-expanded="false" aria-label="Toggle navigation">
         <span></span>
         <span></span>
         <span></span>
@@ -112,10 +112,10 @@
                 <p class="mb-0">Pracuji jako konzultantka, metodička, supervizorka, auditorka a školitelka v oblasti sociálních služeb. Zabývám se kvalitou v sociálních službách. Působím v Moravskoslezském kraji.</p>
               </blockquote>
               <div class="post-thumb">
-              <br><img src="../../img/work-55.jpg" class="img-fluid" alt="">
+                <br><img src="../../img/work-55.jpg" class="img-fluid" alt="">
+              </div>
             </div>
-            </div>
-            
+
           </div>
         </div>
         <div class="col-md-4">
@@ -193,4 +193,5 @@
   <script src="../../js/main.js"></script>
 
 </body>
+
 </html>

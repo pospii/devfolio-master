@@ -43,8 +43,7 @@
   <nav class="navbar navbar-b navbar-trans navbar-expand-md fixed-top" id="mainNav">
     <div class="container">
       <a class="navbar-brand js-scroll" href="#page-top">Pospi</a>
-      <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarDefault"
-        aria-controls="navbarDefault" aria-expanded="false" aria-label="Toggle navigation">
+      <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarDefault" aria-controls="navbarDefault" aria-expanded="false" aria-label="Toggle navigation">
         <span></span>
         <span></span>
         <span></span>
@@ -158,43 +157,35 @@
           <div class="skill-mf">
             <span>HTML</span> <span class="pull-right">95%</span>
             <div class="progress">
-              <div class="progress-bar" role="progressbar" style="width: 95%;" aria-valuenow="95" aria-valuemin="0"
-                aria-valuemax="100" aria-label="Skill"></div>
+              <div class="progress-bar" role="progressbar" style="width: 95%;" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100" aria-label="Skill"></div>
             </div>
             <span>CSS3</span> <span class="pull-right">90%</span>
             <div class="progress">
-              <div class="progress-bar" role="progressbar" style="width: 90%" aria-valuenow="90" aria-valuemin="0"
-                aria-valuemax="100" aria-label="Skill"></div>
+              <div class="progress-bar" role="progressbar" style="width: 90%" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" aria-label="Skill"></div>
             </div>
             <span>PHP</span> <span class="pull-right">50%</span>
             <div class="progress">
-              <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0"
-                aria-valuemax="100" aria-label="Skill"></div>
+              <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" aria-label="Skill"></div>
             </div>
             <span>C#</span> <span class="pull-right">60%</span>
             <div class="progress">
-              <div class="progress-bar" role="progressbar" style="width: 60%;" aria-valuenow="60" aria-valuemin="0"
-                aria-valuemax="100" aria-label="Skill"></div>
+              <div class="progress-bar" role="progressbar" style="width: 60%;" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" aria-label="Skill"></div>
             </div>
             <span>JavaScript</span> <span class="pull-right">25%</span>
             <div class="progress">
-              <div class="progress-bar" role="progressbar" style="width: 25%" aria-valuenow="25" aria-valuemin="0"
-                aria-valuemax="100" aria-label="Skill"></div>
+              <div class="progress-bar" role="progressbar" style="width: 25%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100" aria-label="Skill"></div>
             </div>
             <span>Java</span> <span class="pull-right">60%</span>
             <div class="progress">
-              <div class="progress-bar" role="progressbar" style="width: 60%;" aria-valuenow="60" aria-valuemin="0"
-                aria-valuemax="100" aria-label="Skill"></div>
+              <div class="progress-bar" role="progressbar" style="width: 60%;" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" aria-label="Skill"></div>
             </div>
             <span>Python</span> <span class="pull-right">65%</span>
             <div class="progress">
-              <div class="progress-bar" role="progressbar" style="width: 65%;" aria-valuenow="65" aria-valuemin="0"
-                aria-valuemax="100" aria-label="Skill"></div>
+              <div class="progress-bar" role="progressbar" style="width: 65%;" aria-valuenow="65" aria-valuemin="0" aria-valuemax="100" aria-label="Skill"></div>
             </div>
             <span>Unity</span> <span class="pull-right">45%</span>
             <div class="progress">
-              <div class="progress-bar" role="progressbar" style="width: 45%;" aria-valuenow="45" aria-valuemin="0"
-                aria-valuemax="100" aria-label="Skill"></div>
+              <div class="progress-bar" role="progressbar" style="width: 45%;" aria-valuenow="45" aria-valuemin="0" aria-valuemax="100" aria-label="Skill"></div>
             </div>
           </div>
         </div>
@@ -401,7 +392,7 @@
               </div>
               <h3 class="card-title"><a href="blog/web-design/stranky-kamila-pospiskova.php">Stránky Kamila Pospíšková</a></h3>
               <p class="card-description">
-                Stránky vytvořené na zakázku pro Kamilu Pospíškovou. Supervize, audity, koknzultace, vzdělávání. 
+                Stránky vytvořené na zakázku pro Kamilu Pospíškovou. Supervize, audity, koknzultace, vzdělávání.
               </p>
             </div>
             <div class="card-footer">
@@ -530,31 +521,24 @@
                       <div class="row">
                         <div class="col-md-12 mb-3">
                           <div class="form-group">
-                            <input type="text" name="jmeno" value="<?= htmlspecialchars($jmeno) ?>" class="form-control"
-                              id="name" placeholder="Vaše jméno" data-rule="minlen:4"
-                              data-msg="Zadejte prosím alespoň 4 znaky" />
+                            <input type="text" name="jmeno" value="<?= htmlspecialchars($jmeno) ?>" class="form-control" id="name" placeholder="Vaše jméno" data-rule="minlen:4" data-msg="Zadejte prosím alespoň 4 znaky" />
                             <div class="validation"></div>
                           </div>
                         </div>
                         <div class="col-md-12 mb-3">
                           <div class="form-group">
-                            <input type="email" value="<?= htmlspecialchars($email) ?>" class="form-control"
-                              name="email" id="email" placeholder="Váš Email" data-rule="email"
-                              data-msg="Zadejte prosím platnou emailovou adresu" />
+                            <input type="email" value="<?= htmlspecialchars($email) ?>" class="form-control" name="email" id="email" placeholder="Váš Email" data-rule="email" data-msg="Zadejte prosím platnou emailovou adresu" />
                             <div class="validation"></div>
                           </div>
                         </div>
                         <div class="col-md-12 mb-3">
                           <div class="form-group">
-                            <textarea class="form-control" value="<?= htmlspecialchars($zprava) ?>" name="zprava"
-                              rows="5" data-rule="required" data-msg="Napište mi něco, prosím!"
-                              placeholder="Zpráva"></textarea>
+                            <textarea class="form-control" value="<?= htmlspecialchars($zprava) ?>" name="zprava" rows="5" data-rule="required" data-msg="Napište mi něco, prosím!" placeholder="Zpráva"></textarea>
                             <div class="validation"></div>
                           </div>
                         </div>
                         <div class="col-md-12">
-                          <button type="submit" value="Odeslat"
-                            class="button button-a button-big button-rouded">Odeslat</button>
+                          <button type="submit" value="Odeslat" class="button button-a button-big button-rouded">Odeslat</button>
                         </div>
                       </div>
                     </form>
@@ -579,21 +563,11 @@
                   </div>
                   <div class="socials">
                     <ul>
-                      <li><a title="Facebook" href="https://www.facebook.com/weby.pospisek" target="_blank"
-                          rel="noopener noreferrer"><span class="ico-circle"><i
-                              class="ion-social-facebook"></i></span></a></li>
-                      <li><a title="Instagram" href="https://www.instagram.com/a_pospisek/" target="_blank"
-                          rel="noopener noreferrer"><span class="ico-circle"><i
-                              class="ion-social-instagram"></i></span></a></li>
-                      <li><a title="GitHub" href="https://github.com/pospii" target="_blank"
-                          rel="noopener noreferrer"><span class="ico-circle"><i
-                              class="ion-social-github"></i></span></a></li>
-                      <li><a title="Twitter" href="https://twitter.com/adulin123" target="_blank"
-                          rel="noopener noreferrer"><span class="ico-circle"><i
-                              class="ion-social-twitter"></i></span></a></li>
-                      <li><a title="Pinterest" href="https://cz.pinterest.com/adampospisek/" target="_blank"
-                          rel="noopener noreferrer"><span class="ico-circle"><i
-                              class="ion-social-pinterest"></i></span></a></li>
+                      <li><a title="Facebook" href="https://www.facebook.com/weby.pospisek" target="_blank" rel="noopener noreferrer"><span class="ico-circle"><i class="ion-social-facebook"></i></span></a></li>
+                      <li><a title="Instagram" href="https://www.instagram.com/a_pospisek/" target="_blank" rel="noopener noreferrer"><span class="ico-circle"><i class="ion-social-instagram"></i></span></a></li>
+                      <li><a title="GitHub" href="https://github.com/pospii" target="_blank" rel="noopener noreferrer"><span class="ico-circle"><i class="ion-social-github"></i></span></a></li>
+                      <li><a title="Twitter" href="https://twitter.com/adulin123" target="_blank" rel="noopener noreferrer"><span class="ico-circle"><i class="ion-social-twitter"></i></span></a></li>
+                      <li><a title="Pinterest" href="https://cz.pinterest.com/adampospisek/" target="_blank" rel="noopener noreferrer"><span class="ico-circle"><i class="ion-social-pinterest"></i></span></a></li>
 
                     </ul>
                   </div>
