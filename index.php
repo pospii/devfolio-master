@@ -5,8 +5,8 @@
   <meta charset="utf-8" />
   <title>Adam Pospíšek</title>
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  <meta name="description" content="Adam Pospíšek portfolio />
-  <meta name=" keywords" content="portfolio, programátor, Pospi" />
+  <meta name="description" content="Adam Pospíšek portfolio" />
+  <meta name="keywords" content="portfolio, programátor, Pospi" />
   <meta name="author" content="Pospi" />
   <link rel="shortcut icon" href="img/ikona.ico" />
 
@@ -391,30 +391,28 @@
         <div class="col-md-4">
           <div class="card card-blog">
             <div class="card-img">
-              <a href="blog-single.html"><img src="img/post-1.jpg" alt="" class="img-fluid"></a>
+              <a href="blog/web-design/stranky-kamila-pospiskova.php"><img src="img/work-11.jpg" alt="" class="img-fluid"></a>
             </div>
             <div class="card-body">
               <div class="card-category-box">
                 <div class="card-category">
-                  <h6 class="category">Travel</h6>
+                  <h6 class="category">Web design</h6>
                 </div>
               </div>
-              <h3 class="card-title"><a href="blog-single.html">See more ideas about Travel</a></h3>
+              <h3 class="card-title"><a href="blog/web-design/stranky-kamila-pospiskova.php">Stránky Kamila Pospíšková</a></h3>
               <p class="card-description">
-                Proin eget tortor risus. Pellentesque in ipsum id orci porta dapibus. Praesent sapien massa, convallis
-                a pellentesque nec,
-                egestas non nisi.
+                Stránky vytvořené na zakázku pro Kamilu Pospíškovou. Supervize, audity, koknzultace, vzdělávání. 
               </p>
             </div>
             <div class="card-footer">
               <div class="post-author">
-                <a href="#">
-                  <img src="img/testimonial-2.jpg" alt="" class="avatar rounded-circle">
-                  <span class="author">Morgan Freeman</span>
+                <a href="http://pospi.borec.cz/">
+                  <img src="img/testimonial-21.jpg" alt="" class="avatar rounded-circle">
+                  <span class="author">Adam Pospíšek</span>
                 </a>
               </div>
               <div class="post-date">
-                <span class="ion-ios-clock-outline"></span> 10 min
+                <span class="ion-ios-clock-outline"></span> 2 min
               </div>
             </div>
           </div>
@@ -625,7 +623,7 @@
               </div>
             </div>
             <div class="copyright-box">
-              <p class="copyright"><strong>&copy; Pospi 2022</strong></p>
+              <p class="copyright"><strong>&copy; Adam Pospíšek 2022</strong></p>
             </div>
           </div>
         </div>
