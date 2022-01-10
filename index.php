@@ -101,7 +101,7 @@
                 <div class="row">
                   <div class="col-sm-6 col-md-5">
                     <div class="about-img">
-                      <img src="img/testimonial-21.jpg" class="img-fluid rounded b-shadow-a" alt="">
+                      <img src="img/testimonial-21.jpg" class="img-fluid rounded b-shadow-a" alt="Adam Pospíšek" title="Adam Pospíšek">
                     </div>
                   </div>
                   <div class="col-sm-6 col-md-7">
@@ -406,8 +406,8 @@
             </div>
             <div class="card-footer">
               <div class="post-author">
-                <a href="http://pospi.borec.cz/">
-                  <img src="img/testimonial-21.jpg" alt="" class="avatar rounded-circle">
+                <a href="http://pospi.tode.cz/">
+                  <img src="img/testimonial-21.jpg" alt="Adam Pospíšek" class="avatar rounded-circle">
                   <span class="author">Adam Pospíšek</span>
                 </a>
               </div>
@@ -425,25 +425,23 @@
             <div class="card-body">
               <div class="card-category-box">
                 <div class="card-category">
-                  <h6 class="category">Web Design</h6>
+                  <h6 class="category">...</h6>
                 </div>
               </div>
-              <h3 class="card-title"><a href="blog-single.html">See more ideas about Travel</a></h3>
+              <h3 class="card-title"><a href="blog-single.html">Ve vývoji..</a></h3>
               <p class="card-description">
-                Proin eget tortor risus. Pellentesque in ipsum id orci porta dapibus. Praesent sapien massa, convallis
-                a pellentesque nec,
-                egestas non nisi.
+                Nothin to see
               </p>
             </div>
             <div class="card-footer">
               <div class="post-author">
                 <a href="#">
                   <img src="img/testimonial-2.jpg" alt="" class="avatar rounded-circle">
-                  <span class="author">Morgan Freeman</span>
+                  <span class="author">ja</span>
                 </a>
               </div>
               <div class="post-date">
-                <span class="ion-ios-clock-outline"></span> 10 min
+                <span class="ion-ios-clock-outline"></span> 1000 min
               </div>
             </div>
           </div>
@@ -456,25 +454,23 @@
             <div class="card-body">
               <div class="card-category-box">
                 <div class="card-category">
-                  <h6 class="category">Web Design</h6>
+                  <h6 class="category">...</h6>
                 </div>
               </div>
-              <h3 class="card-title"><a href="blog-single.html">See more ideas about Travel</a></h3>
+              <h3 class="card-title"><a href="blog-single.html">Taktéž ve vývoji..</a></h3>
               <p class="card-description">
-                Proin eget tortor risus. Pellentesque in ipsum id orci porta dapibus. Praesent sapien massa, convallis
-                a pellentesque nec,
-                egestas non nisi.
+                heh
               </p>
             </div>
             <div class="card-footer">
               <div class="post-author">
                 <a href="#">
                   <img src="img/testimonial-2.jpg" alt="" class="avatar rounded-circle">
-                  <span class="author">Morgan Freeman</span>
+                  <span class="author">ty</span>
                 </a>
               </div>
               <div class="post-date">
-                <span class="ion-ios-clock-outline"></span> 10 min
+                <span class="ion-ios-clock-outline"></span> 0 ms
               </div>
             </div>
           </div>
