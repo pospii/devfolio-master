@@ -69,10 +69,10 @@
           <h2 class="intro-title mb-4">Kamila Pospíšková</h2>
           <ol class="breadcrumb d-flex justify-content-center">
             <li class="breadcrumb-item">
-              <a href="http://pospi.borec.cz/blog.php">Domů</a>
+              <a href="http://pospi.tode.cz/blog.php">Domů</a>
             </li>
             <li class="breadcrumb-item">
-              <a href="http://pospi.borec.cz/blog/web-design.php">Web design</a>
+              <a href="http://pospi.tode.cz/blog/web-design.php">Web design</a>
             </li>
             <li class="breadcrumb-item active">Kamila Pospíšková</li>
           </ol>
@@ -96,11 +96,11 @@
               <ul>
                 <li>
                   <span class="ion-ios-person"></span>
-                  <a href="http://pospi.borec.cz/">Adam Pospíšek</a>
+                  <a href="http://pospi.tode.cz/">Adam Pospíšek</a>
                 </li>
                 <li>
                   <span class="ion-pricetag"></span>
-                  <a href="http://pospi.borec.cz/blog/web-design.php">Web Design</a>
+                  <a href="http://pospi.tode.cz/blog/web-design.php">Web Design</a>
                 </li>
               </ul>
             </div>
@@ -124,7 +124,7 @@
             <div class="sidebar-content">
               <ul class="list-sidebar">
                 <li>
-                  <a href="http://pospi.borec.cz/blog/web-design/stranky-kamila-pospiskova.php">Stránky Kamila Pospíšková</a>
+                  <a href="http://pospi.tode.cz/blog/web-design/stranky-kamila-pospiskova.php">Stránky Kamila Pospíšková</a>
                 </li>
                 <li>
                   <a href="#">Ve vývoji...</a>
@@ -137,7 +137,7 @@
             <div class="sidebar-content">
               <ul>
                 <li>
-                  <a href="http://pospi.borec.cz/blog/web-design.php">Web design</a>
+                  <a href="http://pospi.tode.cz/blog/web-design.php">Web design</a>
                 </li>
               </ul>
             </div>
