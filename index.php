@@ -100,7 +100,7 @@
                 <div class="row">
                   <div class="col-sm-6 col-md-5">
                     <div class="about-img">
-                      <img src="img/testimonial-21.jpg" class="img-fluid rounded b-shadow-a" alt="Adam Pospíšek" title="Adam Pospíšek">
+                      <img src="img/adam-pospisek.webp" class="img-fluid rounded b-shadow-a" alt="Adam Pospíšek" title="Adam Pospíšek">
                     </div>
                   </div>
                   <div class="col-sm-6 col-md-7">
@@ -398,7 +398,7 @@
             <div class="card-footer">
               <div class="post-author">
                 <a href="http://pospi.tode.cz/">
-                  <img src="img/testimonial-21.jpg" alt="Adam Pospíšek" class="avatar rounded-circle">
+                  <img src="img/adam-pospisek.webp" alt="Adam Pospíšek" class="avatar rounded-circle">
                   <span class="author">Adam Pospíšek</span>
                 </a>
               </div>
