@@ -89,7 +89,7 @@
         <div class="col-md-8">
           <div class="post-box">
             <div class="post-thumb">
-              <img src="../../img/work-11.jpg" class="img-fluid" alt="">
+              <img src="../../img/web-kamila-pospiskova.webp" class="img-fluid" alt="Web Kamila Pospíšková" title="Web Kamila Pospíšková">
             </div>
             <div class="post-meta">
               <h1 class="article-title">Mgr. Kamila Pospíšková</h1>

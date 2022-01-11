@@ -214,9 +214,9 @@
       <div class="row">
         <div class="col-md-4">
           <div class="work-box">
-            <a href="img/work-11.jpg" data-lightbox="gallery-mf">
+            <a href="img/web-kamila-pospiskova.webp" alt="Web Kamila Pospíšková" title="Web Kamila Pospíšková" data-lightbox="gallery-mf">
               <div class="work-img">
-                <img src="img/work-11.jpg" alt="" class="img-fluid">
+                <img src="img/web-kamila-pospiskova.webp" alt="Web Kamila Pospíšková" title="Web Kamila Pospíšková" class="img-fluid">
               </div>
               <div class="work-content">
                 <div class="row">
@@ -382,7 +382,7 @@
         <div class="col-md-4">
           <div class="card card-blog">
             <div class="card-img">
-              <a href="blog/web-design/stranky-kamila-pospiskova.php"><img src="img/work-11.jpg" alt="" class="img-fluid"></a>
+              <a href="blog/web-design/stranky-kamila-pospiskova.php"><img src="img/web-kamila-pospiskova.webp" alt="Web Kamila Pospíšková" title="Web Kamila Pospíšková" class="img-fluid"></a>
             </div>
             <div class="card-body">
               <div class="card-category-box">
@@ -398,7 +398,7 @@
             <div class="card-footer">
               <div class="post-author">
                 <a href="http://pospi.tode.cz/">
-                  <img src="img/adam-pospisek.webp" alt="Adam Pospíšek" class="avatar rounded-circle">
+                  <img src="img/adam-pospisek.webp" alt="Adam Pospíšek" title="Adam Pospíšek" class="avatar rounded-circle">
                   <span class="author">Adam Pospíšek</span>
                 </a>
               </div>
