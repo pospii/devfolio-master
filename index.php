@@ -214,7 +214,7 @@
       <div class="row">
         <div class="col-md-4">
           <div class="work-box">
-            <a href="img/web-kamila-pospiskova.webp" alt="Web Kamila Pospíšková" title="Web Kamila Pospíšková" data-lightbox="gallery-mf">
+            <a href="img/web-kamila-pospiskova.webp" data-lightbox="gallery-mf">
               <div class="work-img">
                 <img src="img/web-kamila-pospiskova.webp" alt="Web Kamila Pospíšková" title="Web Kamila Pospíšková" class="img-fluid">
               </div>
@@ -238,9 +238,9 @@
         </div>
         <div class="col-md-4">
           <div class="work-box">
-            <a href="img/work-22.jpg" data-lightbox="gallery-mf">
+            <a href="img/tahovy-boj-arena.webp" data-lightbox="gallery-mf">
               <div class="work-img">
-                <img src="img/work-22.jpg" alt="" class="img-fluid">
+                <img src="img/tahovy-boj-arena.webp" alt="Tahový boj" title="Tahový boj" class="img-fluid">
               </div>
               <div class="work-content">
                 <div class="row">
@@ -262,9 +262,9 @@
         </div>
         <div class="col-md-4">
           <div class="work-box">
-            <a href="img/work-33.jpg" data-lightbox="gallery-mf">
+            <a href="img/unity-mesto.webp" data-lightbox="gallery-mf">
               <div class="work-img">
-                <img src="img/work-33.jpg" alt="" class="img-fluid">
+                <img src="img/unity-mesto.webp" alt="Ulice města" title="Ulice města" class="img-fluid">
               </div>
               <div class="work-content">
                 <div class="row">
@@ -286,9 +286,9 @@
         </div>
         <div class="col-md-4">
           <div class="work-box">
-            <a href="img/work-44.jpg" data-lightbox="gallery-mf">
+            <a href="img/kalkulacka.webp" data-lightbox="gallery-mf">
               <div class="work-img">
-                <img src="img/work-44.jpg" alt="" class="img-fluid">
+                <img src="img/kalkulacka.webp" alt="Kalkulačka" title="Kalkulačka" class="img-fluid">
               </div>
               <div class="work-content">
                 <div class="row">
@@ -310,9 +310,9 @@
         </div>
         <div class="col-md-4">
           <div class="work-box">
-            <a href="img/work-55.jpg" data-lightbox="gallery-mf">
+            <a href="img/web-stary-kamila-pospiskova.webp" data-lightbox="gallery-mf">
               <div class="work-img">
-                <img src="img/work-55.jpg" alt="" class="img-fluid">
+                <img src="img/web-stary-kamila-pospiskova.webp" alt="Web Kamila Pospíšková starý" title="Web Kamila Pospíšková starý" class="img-fluid">
               </div>
               <div class="work-content">
                 <div class="row">
@@ -334,9 +334,9 @@
         </div>
         <div class="col-md-4">
           <div class="work-box">
-            <a href="img/work-66.jpg" data-lightbox="gallery-mf">
+            <a href="img/linearni-funkce.webp" data-lightbox="gallery-mf">
               <div class="work-img">
-                <img src="img/work-66.jpg" alt="" class="img-fluid">
+                <img src="img/linearni-funkce.webp" alt="Graf lineární funkce" title="Graf lineární funkce" class="img-fluid">
               </div>
               <div class="work-content">
                 <div class="row">

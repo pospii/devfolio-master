@@ -112,7 +112,7 @@
                 <p class="mb-0">Pracuji jako konzultantka, metodička, supervizorka, auditorka a školitelka v oblasti sociálních služeb. Zabývám se kvalitou v sociálních službách. Působím v Moravskoslezském kraji.</p>
               </blockquote>
               <div class="post-thumb">
-                <br><img src="../../img/work-55.jpg" class="img-fluid" alt="">
+                <br><img src="../../img/web-stary-kamila-pospiskova.webp" class="img-fluid" alt="Web Kamila Pospíšková starý" title="Web Kamila Pospíšková starý">
               </div>
             </div>
 
